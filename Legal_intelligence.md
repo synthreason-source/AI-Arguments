@@ -22,8 +22,6 @@ Meaning operates on a single spectrum from verbal signalling (so something inclu
 
 We could then claim indicatives contain an 'indicative mood operator' \u0003 such that logical states dynamically adapt to speaker context. By mapping a counterfactual expansion to subupdates, I believe this to demonstrate its use in formalizing complex conversations. The asymmetry is easily illustrated by the different wording of questions, which exposes both the strengths and weakness in qualitative mapping, frequently doing so in a different tone than the one presented here .[^10][^6]
 
-Would you like to expand on how 'partition theory' specifically addresses the threat of confounding factors in this proposed framework?
-
 <div align="center">⁂</div>
 
 [^1]: https://www.academia.edu/19621674/AN_ATTEMPT_ON_THE_METHODOLOGICAL_COMPOSURE_BETWEEN_THE_NUMBER_AND_UNDERSTANDING_NATURE_AND_CONSTRUCTION
